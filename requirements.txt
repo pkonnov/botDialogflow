@@ -1,0 +1,5 @@
+apiai==1.2.3
+certifi==2017.11.5
+future==0.16.0
+numpy==1.14.0
+python-telegram-bot==9.0.0
