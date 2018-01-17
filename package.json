@@ -1,0 +1,17 @@
+{
+	"name": "heroku_bot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "python bot.py"
+	},
+	"engines": {
+		"python": "3.5.2"
+	},
+	"autor": "",
+	"license": "ISC",
+	"dependencies": {
+		"python-telegram-bot": "9.0.0"
+	}
+}
